@@ -1,8 +1,8 @@
 title: Blog Site
-author: Deepak
-email: deepak@deepak.com
+author: Deepak Sisodiaa
+email: deepaksisodiaa05@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  hiissmwscndmscd .
+  Hi I am Deepak Sisodiaa, I am a Ruby on Rails Developer .
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -11,14 +11,14 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Deepak Sisodiaa 
-  tagline: Developer Kuda likha hu
+  tagline: Ruby on Rails Developer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
     twitter: thelehhman
-    github:  thelehhman
+    github:  sisodiaadeepak
     linkedIn: in/thelehhman
     rss: rss
     # dribbble: jekyll
